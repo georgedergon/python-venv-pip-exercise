@@ -17,4 +17,5 @@ plt.ylabel('Quadrat')
 plt.legend()
 
 # Diagramm anzeigen
-plt.show()
+# plt.show()
+plt.savefig("diagramm.png")
